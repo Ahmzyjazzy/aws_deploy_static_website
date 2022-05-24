@@ -24,7 +24,7 @@ The following are the screenshot steps require to deploy a static website on AWS
 ![S3 bucket](/screenshots/s3bucket_iam_policy.png?raw=true "IAM Policy")
 
 ## Website Distribution
-![S3 bucket](/screenshots/s3bucket_iam_cloudfront.png?raw=true "Cloudfront")
+![S3 bucket](/screenshots/s3_bucket_cloudfront.png?raw=true "Cloudfront")
 
 
 ## Web Browser Access
