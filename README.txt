@@ -33,4 +33,4 @@ https://my-588592539415-bucket.s3.amazonaws.com/index.html
 
 http://my-588592539415-bucket.s3-website-us-east-1.amazonaws.com/
 
-https://d1icblw9n22trz.cloudfront.net/
+https://d1icblw9n22trz.cloudfront.net/index.html
