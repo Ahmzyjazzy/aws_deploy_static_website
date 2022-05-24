@@ -1,6 +1,6 @@
 # Deploy Static Website on AWS
 
-The following are the steps require to deploy a static AWS.
+The static project deployed is located at the /projec-deployed folder
 
 The files included are: 
 
@@ -9,6 +9,7 @@ index.html - The Index document for the website.
 /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
 /css - CSS files for the website.
 
+The following are the screenshot steps require to deploy a static website on AWS using S3 and Cloudfront.
 
 ## S3 Bucket
 [S3 bucket](/screenshots/s3bucket.png)
