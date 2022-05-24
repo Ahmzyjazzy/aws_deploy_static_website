@@ -1,5 +1,8 @@
 # Deploy Static Website on AWS
 
+Project github url: 
+https://github.com/Ahmzyjazzy/aws_deploy_static_website
+
 The static project deployed is located at the /projec-deployed folder
 
 The files included are: 
